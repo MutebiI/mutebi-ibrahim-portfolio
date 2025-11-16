@@ -266,7 +266,7 @@ export default function Home() {
               {
                 icon: <Book className="w-8 h-8" />,
                 title: "Academic Coaching",
-                description: "Master Mathematics, Physics, and Chemistry with personalized coaching sessions",
+                description: "Master the basics of programming, Mathematics, Physics, and Chemistry with personalized coaching sessions",
                 features: ["One-on-One Sessions", "Concept Clarity", "Exam Preparation", "Flexible Scheduling"],
                 gradient: "from-green-500 to-emerald-500",
                 bgGradient: "from-green-500/10 to-emerald-500/10",
